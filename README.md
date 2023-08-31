@@ -1,10 +1,17 @@
 Sounds from the Stone Age (SftSA) 
 - a play in various acts
-in the shadow of certain doom
-my most deranging planes of thought
 
-extirbate ubiquity? not poss, just redeterriotilized
-pollinated sky
+
+In the shadow of certain doom
+it displays most deranging planes of thought.
+
+
+evoke demons, to wake up
+complex and abstract contexts, to summon demons , make visible and tangible, the cards, sculpture, cute puppetry,
+
+belongs to open cycle, previous vtex files, meta-narrative, anti-narrative:w
+
+
 
 
 without FoW no activity
