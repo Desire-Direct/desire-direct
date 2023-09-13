@@ -4,7 +4,8 @@ Sounds from the Stone Age (SftSA)
 
 In the shadow of certain doom
 it displays most deranging planes of thought.
-
+the trappings of a conventional play hero/heroine, authoritarian figure, villain,
+femme fatale. 
 
 evoke demons, to wake up
 complex and abstract contexts, to summon demons , make visible and tangible, the cards, sculpture, cute puppetry,
@@ -12,7 +13,9 @@ complex and abstract contexts, to summon demons , make visible and tangible, the
 belongs to open cycle, previous vtex files, meta-narrative, anti-narrative:w
 
 
-
+the sun is alarmingly noisy
+hammernosed bats, wolfspiders, basilisks
+triassic sun
 
 without FoW no activity
 needed for thinking
@@ -28,6 +31,10 @@ As actors on the world stage,
 each individual has a different viewpoints 
 
 Théâtre de la Cruauté
+the fusion of mood and setting,
+the mapping of a landscape of the troubled mind.
+trauma encrypted in spinal cords
+dreams = archaic memory
 assault on the senses, 
 coz direct
 written to liberate the subconscious and reveal 
