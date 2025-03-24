@@ -1,4 +1,30 @@
-Sounds from the Stone Age (SFTSA) - A Play from and for the Meat Puppets
+Sounds from the Stone Age (SftSA) - A Play from and for the Meat Puppets
+
+
+Somehow fascinated by the holocaust of the world, 
+murder is always present to natural pyromaniac Dr. Erin Bryant, 
+who was playing with cultural meltdowns from a very young age.
+The indisciplined thinker digs out Charlie
+stares into her black holes, and feels a strange lightness is in there,
+just to be tortured and murdered over and over again.
+in strange, positive feedback loops.
+
+murder orgasm frenzy
+disturbed refusing any utopian proposals
+ruined  but up to play
+a binary between form and deformed.
+Future? Which future? Not into your future. 
+
+blindness new drug
+heightens, disturbs other senses
+Sound no boundary, still feeling more inside
+
+
+
+
+
+
+
 
 
 Both tragedy and comedy, the incendiary play is following the traditions of 90s cyberculture and
