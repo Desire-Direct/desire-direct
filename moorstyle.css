@@ -2,10 +2,10 @@
   box-sizing: border-box; /*calculates total box size, includes margin and padding and resizes*/
   }
  
-body {
-  background-color: rgb(59,49,49);
-  font-family: Arial, Helvetica, sans-serif;
-  color: rgb(237,201,175);
+body { 
+	background-color: rgb(28,15,74);	/* Russian Violet */
+  	font-family: serif;
+  	color: rgb(237,201,175);
   }
 
 img { /*does this effect the modal img?*/
