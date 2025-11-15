@@ -3,10 +3,31 @@
   }
  
 body { 
+	margin: 0;
+	padding: 0;
 	background-color: rgb(28,15,74);	/* Russian Violet */
-  	font-family: serif;			/* Desert Sand */
-  	color: rgb(237,201,175);
-  }
+  	font-family: serif;			  	
+	color: rgb(237,201,175);		/* Desert Sand */
+}
+
+header {
+	background-color: rgb(28,15,74);	/* Russian Violet */
+	padding: 5%;
+	text-align: center;
+}
+
+footer {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100;
+	background-color: rgb(237,201,175);	/* Desert Sand */
+	padding: 5%;
+	text-align: center;
+	z-index: 1000;		/* z-index indicates depth of the positioned element */
+}
+
+
 
 img { /*does this effect the modal img?*/
   max-width: 100%;
