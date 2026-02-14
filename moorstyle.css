@@ -12,7 +12,7 @@ body {
 
 header {
 	background-color: rgb(28,15,74);	/* Russian Violet */
-	padding: 5%;
+	padding: 2%;
 	text-align: center;
 }
 
@@ -20,28 +20,36 @@ footer {
 	position: fixed;
 	bottom: 0;
 	left: 0;
-	width: 100;
-	background-color: rgb(28,15,74);	/* Russian Violet */
+	width: 100%;
+	background-color: rgb(237,201,175);		/* Desert Sand */
 	font-size: x-small;	
-	color: rgb(237,201,175);		/* Desert Sand */
+/*	color: rgb	*/
 	padding: 1%;
 	text-align: center;
 	z-index: 1000;		/* z-index indicates depth of the positioned element */
 }
 
 div.container {
-	display: flex;
+	display: flex;		/* let all flex items be the same length, regardless its content */
 	flex-direction: row;
 	text-align: justify;
-/*	width: 80%;
-  	margin-left: 10%;
-  	margin-right:10%;
+	width: 90%;
+ 	margin-left: 2%;
+  	margin-right: 2%;
   	text-justify: inter-word;*/
 }
 
 div.container > div {
 	margin: 10px;
 }
+
+.pdf {
+	width: 100%;
+	height: auto;
+	aspect-ratio: 4 / 3;
+}
+
+
 
 /* Use a media query to add a breakpoint at 600px: */
 @media screen and (max-width: 600px) {

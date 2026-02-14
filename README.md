@@ -1,43 +1,32 @@
+geo-philosophy, founder Nietzsche
+investigations into materialism 
+
+
+the blind receiver body is testing milleu(x) for orientation, 
+spacetime
+and modifies received signals 
+to transmit its idea of its alive, qualitative spirit 
+
+
 Sounds from the Stone Age (SftSA) - A Rogue Play 
 
-
-In an open biosphere struggle is needed, both collab and fressen and gefressen werden
-closed: leben und leben lassen. 
-
-hierarchy, simple thinking predator eats smaller animals, 
-but mass of bacteria most powerful, on the bottom level enables life. 
-
-
-cryptic symbolism, meaning?
-
-experimental, utility game, 
-other than constant change of viewpoints, schizoparanoid
+violence, madness and sexuality
+Cybergothic horror 
+God is dead
 
 Listen to the Sounds from the Stone Age! fluid
 hyperstition pollute your unknowledge
 
-Cybergothic horror 
-meeting the faceless, 
-impersonal Other  (heimlich?)
-
-unintelligibel Nothing of a black hole, 
-that contacts you through the dark mirror
-icecold tentacles reaches out for you
-
-not speculative Real, for sure
-don't be afraid of the monster, who just seeks for a harmonious relationship
-
-object of desire
-we don't know, so we cannot want it
-establish substitute of self? what the mind wants, is (not) what the body needs
+hallucogenic, 
+whiteout, dead zones, disorientation
 
 
-what does it "want"? a return? vereinnahmung? verausgabung
-unfolding desire, which is between self and the other? 
-but rational
+isolation-combination 
+related to objects, relations are still impossible
 
 not snake but the unusual technological powers of the flexible terrestrial isopod, 
-stagnant, to ongoing change 
+stagnant to ongoing change 
+
 assiduosly, eifrig
 a lucky, fruitful dungeon crawl, and still makes no "progress"
 more successful in life than the human species
