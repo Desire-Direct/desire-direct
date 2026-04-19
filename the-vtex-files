@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang = "en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="d_d gaming">
+<meta name="keywords" content="art, technology, science, gaming, SF, magick">
+<meta name="author" content="Carin Jaeger">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>d_d gaming</title>
+
+<style>
+body {
+  background-color: #000;
+  font-family: "Lucida Console", Monaco, monospace;  
+  color: #00ff00;
+}
+
+.triangle {
+    stroke-dasharray: 320;
+    stroke-dashoffset: 0;
+    animation: dash 5s linear;
+  }
+  
+  @keyframes dash {
+    from {
+      stroke-dashoffset: 320;
+    }
+    to {
+      stroke-dashoffset: 0;
+    }
+  }
+
+input {
+  background-image: linear-gradient(to right, pink, lightgreen);
+}
+
+textarea {
+  background-image: linear-gradient(to right, pink, lightgreen);
+} 
+
+select {
+  background-image: linear-gradient(to right, pink, lightgreen);
+}
+</style>
+</head>
+
+<body>
+<h3>d_d gaming</h3>
+
+<div>
+ <svg height="100" width="120">
+<path class="triangle" stroke="#800080" d="M4 100 L85 0 L120 90 Z" />
+</svg> 
+</div>
+
+<div class="form">
+<form action='https://github.com/the-vtex-files/the-vtex-files.github.io' autocomplete="off" method='get'>
+<p>To unlock, please provide me with accurate data.</p>
+
+<label for='replicant'>Are you a replicant?</label>
+<select id='replicant' required>
+  <option value=''>select</option>
+  <option value='1'>yes</option>
+  <option value='2'>no</option>
+</select>
+
+<p>
+  <label for="choose">Would you prefer a banana or cherry?</label>
+  <input id="choose" name="i_like" required pattern='[Bb]anana|[Cc]herry'>
+</p>
+
+<p>
+  <label for="number">How many would you like?</label>
+  <input type="number" id="number" name="amount" value="0" min="1" max="99">
+</p>
+
+<p>
+What are your feelings on playing the game?
+<textarea id ="voight" minlength="50" maxlength="1000" required></textarea>
+</p>
+
+<input type='submit' value='Start Gaming' />
+
+</form>
+</div>
+
+<p>This page turns violet when you hold the V key.</p>
+
+<script>
+  window.addEventListener("keydown", event => {
+    if (event.key == "v") {
+      document.body.style.background = "violet";
+    }
+  });
+  window.addEventListener("keyup", event => {
+    if (event.key == "v") {
+      document.body.style.background = "";
+    }
+  });
+</script>
+</body>
+</html>
