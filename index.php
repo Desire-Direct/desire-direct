@@ -1,3 +1,25 @@
+<!DOCTYPE html> 
+<html lang="en">   
+
+<head>     
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sounds from the Stone Age</title>   
+</head>   
+
+<body>     
+
+<object data="sounds_from_the_stone_age.pdf" 
+type="application/pdf" 
+width="100%" height="100vh">       
+
+<p>Unable to display PDF file. 
+<a href="sounds_from_the_stone_age.pdf">Download</a> instead.</p>     
+
+</object>   </body> </html>
+
+
+/*
 <?php    
 
 // Store the file name into variable 
@@ -13,4 +35,6 @@ header('Accept-Ranges: bytes');
 @readfile($file);    
 
 ?>
+
+*/
 
