@@ -1,27 +1,16 @@
-<!DOCTYPE html> 
-<html lang="en">   
+<?php    
 
-	<head>     
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+// Store the file name into variable 
+$file = 'sounds_from_the_stone_age.pdf'; 
+$filename = 'sounds_from_the_stone_age.pdf';    
 
-	<title>Sounds from the Stone Age</title>   
-	</head>   
+// Header content type 
+header('Content-type: application/pdf');    
+header('Content-Disposition: inline; filename="' . $filename . '"');    
+header('Content-Transfer-Encoding: binary');    
+header('Accept-Ranges: bytes');    
+// Read the file 
+@readfile($file);    
 
-	<body>        
-		<object 
-			      data="book/sounds_from_the_stone_age.pdf" 
-			      type="application/pdf" 
-			      width="100%" 
-			      height="100%">	
+?>
 
-<!-- Fallback if PDF fails to load -->     
-  <embed src="sounds_from_the_stone_age.pdf" type="application/pdf" width="100%" height="100%"/>  
-
-<p>Unable to display PDF. <a href="sounds_from_the_stone_age.pdf">Download here</a>.</p>   
-		</object>
-
-	</body> 
-</html>
-
-<!-- the <object> tag relies on the browser's PDF plugin -->
